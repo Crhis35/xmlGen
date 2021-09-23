@@ -1,0 +1,17 @@
+{
+  "name": "xml",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "js-base64": "^3.6.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
