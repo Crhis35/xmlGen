@@ -10,9 +10,9 @@ const start = async () => {
       {
         headers: {
           'Content-Type': 'text/plain',
-          'Partnership-Id': 901441896,
-          efacturaAuthorizationToken: '371a2deb-9457-4c33-b8c6-ed79409df33b',
-          // efacturaAuthorizationToken: '17918fc5-62e2-466e-a578-f78b412358b8',
+          'Partnership-Id': '',
+          efacturaAuthorizationToken: '',
+          // efacturaAuthorizationToken: '',
         },
       }
     );
